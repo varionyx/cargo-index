@@ -1,4 +1,5 @@
 {
   "dl": "https://github.com/varionyx/license-core/releases/download/v{version}/license-core-{version}.crate",
-  "api": null
+  "api": null,
+  "auth-required": true
 }
